@@ -19,12 +19,13 @@ with [Upscayl](https://upscayl.org).
 | `2-dead-tank.jpg` | Rusting tank in a dust storm, wanderer in a gas mask |
 | `3-dead-tank-sunset.jpg` | Abandoned tank and wanderer under a dim setting sun |
 | `4-lone-survivor.jpg` | Survivor perched on a capsized trawler before a flooded city (ChatGPT) |
+| `5-lone-trawler.jpg` | Lone figure on the bow of a listing, rusted trawler under an amber sky |
 
 ## License
 
 The theme files are released under the [MIT License](LICENSE). The wallpapers are
-AI-generated images and are not covered by it. `1-drowned-city.jpg`, `2-dead-tank.jpg`
-and `3-dead-tank-sunset.jpg` were made on Leonardo.ai's free plan, which leaves
+AI-generated images and are not covered by it. `1-drowned-city.jpg`, `2-dead-tank.jpg`,
+`3-dead-tank-sunset.jpg` and `5-lone-trawler.jpg` were made on Leonardo.ai's free plan, which leaves
 ownership with Leonardo.ai and grants a non-exclusive license to use them.
 `4-lone-survivor.jpg` was made with ChatGPT. They are included for use with this theme;
 check the terms of Leonardo.ai and OpenAI before reusing them elsewhere.
